@@ -2,7 +2,7 @@ Week 4 Assignment – Python Basics
 
 4. Write a Python program that prints the follwing message: Hello AI Students
 
-'''print("Hello AI Students")
+print("Hello AI Students")
 
 5. Create the following variables in Python:
 
